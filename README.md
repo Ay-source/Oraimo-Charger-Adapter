@@ -10,7 +10,7 @@ Oraimo charger Adapter
 ---
 ![Full assembly Assembly](https://github.com/Ay-source/Oraimo-Charger-Adapter/blob/main/Assembly/Assembly.JPG)
 
-## >Parts
+## Parts
 ---
 
 ### Base
